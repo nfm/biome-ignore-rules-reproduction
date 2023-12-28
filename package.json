@@ -1,0 +1,13 @@
+{
+  "name": "biome-ignore-rules-reproduction",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "@biomejs/biome": "^1.4.1"
+  },
+  "scripts": {
+    "lint": "biome lint .",
+    "format": "biome format .",
+    "ci": "biome ci ."
+  }
+}
